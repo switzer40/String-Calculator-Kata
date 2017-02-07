@@ -6,6 +6,7 @@ namespace String_Calculator
     {
         public Calculator()
         {
+
         }
 
         internal int Add(string numbers)
